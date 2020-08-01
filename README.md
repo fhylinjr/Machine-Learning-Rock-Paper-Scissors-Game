@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/fhylinjr/Simple-Todo-App/blob/master/Todo%20App%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/fhylinjr/Machine-Learning-Rock-Paper-Scissors-Game/blob/master/Rock%20Paper%20Scissors%20Google%20Final%20Project-min.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
